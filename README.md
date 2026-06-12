@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0073-set-matrix-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
