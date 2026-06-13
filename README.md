@@ -11,12 +11,14 @@
 | [0031-next-permutation](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +46,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -55,4 +59,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
