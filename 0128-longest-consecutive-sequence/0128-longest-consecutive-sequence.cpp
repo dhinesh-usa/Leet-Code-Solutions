@@ -3,22 +3,8 @@ public:
     int longestConsecutive(vector<int>& nums) {
 
         if(nums.empty()) return 0;
-        
-        set<int> tosort;
-        
-        for(int i : nums)
-        {
-            tosort.insert(i);
-        }
 
-        nums.clear();
-
-        for(int i : tosort)
-        {
-            nums.push_back(i);
-        }
-
-
+        sort(nums.begin() , nums.end());
 
         int count = 1;
         int maxcount = 1;
