@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0229-majority-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0229-majority-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,4 +82,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
