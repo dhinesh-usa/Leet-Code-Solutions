@@ -26,13 +26,8 @@ public:
                 j --;
                 count ++;
 
-                for(int i = 0; i < nums.size() - 1; i++)
-                {
-                    if(nums[j] == 0)
-                    {
-                        j--;
-                    }
-                }
+                while(j > i and nums[j] == 0)
+                    j--;
                 
             }
             else
