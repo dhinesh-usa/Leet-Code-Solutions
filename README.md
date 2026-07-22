@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -27,6 +28,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
