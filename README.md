@@ -18,6 +18,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | [0229-majority-element-ii](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## String
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Binary Search
 |  |
 | ------- |
