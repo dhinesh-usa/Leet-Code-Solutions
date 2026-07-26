@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0136-single-number) |
@@ -59,6 +60,7 @@
 | [0011-container-with-most-water](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
 ## Union-Find
 |  |
 | ------- |
@@ -106,4 +109,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
