@@ -20,8 +20,6 @@ public:
 
             left[l] = leftmax;
         }
-
-        int count = 0;
       
         for(int r = n - 1 ; r >= 0; r --)
         {
