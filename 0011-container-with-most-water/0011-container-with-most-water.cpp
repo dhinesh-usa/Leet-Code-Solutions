@@ -8,7 +8,7 @@ public:
 
         int right = height.size() - 1;
 
-        while(left <= right)
+        for(int i = 0 ; i < height.size() ; i ++)
         {
             int temp = min(height[left] , height[right]) * (right - left);
 
