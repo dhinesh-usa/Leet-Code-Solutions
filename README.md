@@ -15,6 +15,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -31,6 +32,7 @@
 | [0073-set-matrix-zeroes](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Binary Search
 |  |
