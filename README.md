@@ -43,6 +43,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
 ## Union-Find
 |  |
@@ -126,4 +128,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
