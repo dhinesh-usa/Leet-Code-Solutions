@@ -21,6 +21,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1652-defuse-the-bomb](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -52,6 +53,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/1652-defuse-the-bomb) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Binary Search
 |  |
