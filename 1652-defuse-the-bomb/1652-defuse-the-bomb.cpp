@@ -11,6 +11,7 @@ public:
             return arr;
         }
 
+
         for(int i = 0 ; i < n ; i ++)
         {
 
@@ -37,7 +38,7 @@ public:
 
                 count ++;
             }
-
+            
             arr[i] = temp;
         }
 
