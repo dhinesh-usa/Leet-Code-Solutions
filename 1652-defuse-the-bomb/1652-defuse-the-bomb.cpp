@@ -6,43 +6,82 @@ public:
 
         vector<int> arr(n,0);
 
+        int temp = 0;
+
+        int left = 0;
+
+        int right = 0;
+
         if(k == 0)
         {
             return arr;
         }
 
-
-        for(int i = 0 ; i < n ; i ++)
+        if(k < 0)
         {
 
-            int temp = 0;
+            left = 0;
 
-            int j = (i + 1)%n;
+            right = 0;
 
-            if(k  < 0)
+            left = ((left - abs(k))%n + n)%n;
 
-                j = (i - 1 + n)%n;
-            
+            right = left;
 
-            int count = 0;
-
-            while(count < abs(k))
+            for(int i = 0 ; i < abs(k) ; i ++)
             {
-                temp = temp + code[j];
+                temp += code[right];
 
-                if(k > 0)
-                    j = (j + 1)%n;
-                
-                else if(k < 0)
-                    j = (j - 1 + n)%n;
-
-                count ++;
+                right = (right + 1)%n;
             }
+
+            arr[0] = temp;
+
+            for(int i = 1 ; i < n ; i ++)
+            {
+                temp += code[right];
+
+                right = (right + 1)%n;
+
+                temp -= code[left];
+
+                left = (left + 1)%n;
+
+                arr[i] = temp;
+            }
+
+            return arr;
+
+        }
             
+        left = (left + 1)%n;
+
+        right = left;
+
+        for(int i = 0 ; i < k ; i ++)
+        {
+            temp += code[right];
+
+            right = (right + 1)%n;
+        }
+
+        arr[0] = temp;
+
+
+        for(int i = 1 ; i < n; i ++)
+        {
+            temp -= code[left];
+
+            left = (left + 1)%n;
+
+            temp += code[right];
+
+            right = (right + 1)%n;
+
             arr[i] = temp;
         }
 
-        return arr;
 
+        return arr;
     }
 };
