@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
