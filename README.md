@@ -26,6 +26,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
