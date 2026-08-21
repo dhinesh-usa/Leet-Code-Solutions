@@ -8,24 +8,25 @@ public:
 
         vector<int> arr2;
 
-        if(n == 0)
-        {
-            return nums;
-        }
-
         arr1.push_back(nums[0]);
 
         arr2.push_back(nums[1]);
 
+        int l = 0, k = 0;
+
         for(int i = 2 ; i < n ; i ++)
         {
-            if(arr2.back() < arr1.back())
+            if(arr1[k] > arr2[l])
             {
                 arr1.push_back(nums[i]);
+
+                k++;
             }
             else
             {
                 arr2.push_back(nums[i]);
+
+                l++;
             }
         }
 
