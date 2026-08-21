@@ -8,6 +8,11 @@ public:
 
         vector<int> arr2;
 
+        if(n == 0)
+        {
+            return nums;
+        }
+
         arr1.push_back(nums[0]);
 
         arr2.push_back(nums[1]);
