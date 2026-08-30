@@ -78,6 +78,7 @@
 | [0042-trapping-rain-water](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -146,4 +147,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/dhinesh-usa/Leet-Code-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
